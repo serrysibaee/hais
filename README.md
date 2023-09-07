@@ -3,6 +3,7 @@
 هذا المستودع "الحيس من الجيس" قمت ببرمجة مرُكبات النموذج الجديد "جيس" واحدة واحدة ثم قمت بعمل نموذج صغير ودربته على مجموعات نصوص صغيرة
 (صورة مائدة وهو رمزية للحيس أنه أكلة من مأدبة الجيس)
 وهنا تنبيه أن النموذج المدرب سيستعمل مقسما حرفيا وليس
+LINK FOR MY ARITICLE: [LINK](https://caramellaapp.com/serrysibaee/YxM4Fnlps/alhys-mn-aljys) رابط المقالة
 # Hais LLM 
 ### "Hais" is an old Arabic food made from dates 
 This is the Repo For my Hais "حيس" mini Implementaion of Jais LLM (where I implemented each part Alone then build a small model and train it on texts
