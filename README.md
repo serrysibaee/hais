@@ -10,5 +10,5 @@ This is the Repo For my Hais "حيس" mini Implementaion of Jais LLM (where I im
 
 ## The Elements of this repo: 
 1. Elements file That has each new part of the model done in its own code with example 
-2. ```model.py``` file that has the full code to train the model (you can try it your self by changing the attributes of the model like number of heads or number of layer etc) and put the path of you own text file `*NOT DONE YET*
+2. ```model.py``` file that has the full code to train the model (you can try it your self by changing the attributes of the model like number of heads or number of layer etc) and put the path of you own text file 
 3. English summary of the programmed elements [link](eng_exp.md)

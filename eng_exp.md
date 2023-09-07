@@ -159,8 +159,6 @@ def swishGLU(x,W,V):
 # x = torch.randint(1,10,(1,3)).float()
 # print(swishGLU(x,W,V))
 
-
-
 # Building feed forward layer with them
 class FFN_new(nn.Module):
   def __init__(self, inp,h1, out):
@@ -187,3 +185,4 @@ y.shape
 
 ```
 
+- The full code for training is the ```model.py``` file where you can change the text file name and modify the parametner NOTE: there is a small problem I left it for the reader to practice 
