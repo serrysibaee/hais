@@ -18,6 +18,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 eval_iters = 200
 n_embd = 64
 n_head = 4
+# solve the m multiplicative and the dimentions of the predictions
 cons_m = 2**(-8/n_head)
 n_layer = 4
 dropout = 0.0
